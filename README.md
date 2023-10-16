@@ -38,6 +38,8 @@ Repo "ThaiDataCommunityHub" เป็นที่รวบรวมข้อม�
 - [DataCouncil.ai - Bangkok Data Engineering & Science](https://www.facebook.com/groups/DataCouncilAIBangkok/).
 
 # ช่องYouTube
+- [Blue on Data](https://www.youtube.com/channel/UC2C0wv6yJKEM7OIXNRUFHYw)
+- [DataTH - Data Science ชิลชิล](https://www.youtube.com/@datath).
 
 
 
