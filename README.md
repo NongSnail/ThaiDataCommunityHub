@@ -35,6 +35,7 @@ Repo "ThaiDataCommunityHub" เป็นที่รวบรวมข้อม�
 - [Data Engineer Thailand](https://www.facebook.com/groups/dataengineerth/).
 - [Data Science Thailand](https://www.facebook.com/groups/datasciencethailand/).
 - [DATAVUE นักขายสายดาต้า](https://www.facebook.com/groups/740532427271684/).
+- [DataCouncil.ai - Bangkok Data Engineering & Science](https://www.facebook.com/groups/DataCouncilAIBangkok/).
 
 # ช่องYouTube
 
