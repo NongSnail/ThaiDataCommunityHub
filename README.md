@@ -27,6 +27,7 @@ Repo "ThaiDataCommunityHub" เป็นที่รวบรวมข้อม�
 - [DataRockie](https://www.facebook.com/datarockie).
 - [Datacookie](https://www.facebook.com/Datacookie20).
 - [Data Lazy by D4Biz](https://www.facebook.com/d4biz).
+- [Data Echooo  (ดาต้าเอ็คโค)](https://www.facebook.com/DataEchooo).
 
 
 # กลุ่มFacebook
